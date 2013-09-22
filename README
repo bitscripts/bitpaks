@@ -7,4 +7,4 @@ BTC: 1PZUq2MaaJc3uiwjU3kwpEsYQHHj5u5KKE
 
 Make sure you go through all the files and edit anything to match your directory structure.  this was built using ubuntu 12.04 LTS
 
-
+PHP, Bootstrap, Coinbase Account are the things needed to make this work.
